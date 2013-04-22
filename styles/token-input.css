@@ -9,7 +9,7 @@ ul.token-input-list {
     font-size: 12px;
     font-family: Verdana, sans-serif;
     z-index: 999;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     background-color: #fff;
     list-style-type: none;
